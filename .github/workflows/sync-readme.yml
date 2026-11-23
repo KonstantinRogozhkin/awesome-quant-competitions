@@ -16,20 +16,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
 
-      - name: Fetch latest awesome-quant-competitions.md
+      - name: Fetch latest README and live SVG snapshots
         run: |
+          mkdir -p assets/readme
           curl -fsSL "https://quantchallenges.com/awesome-quant-competitions.md" -o README.next.md
-          head -n 1 README.next.md | grep -q "^# Awesome Quant Competitions"
+          grep -q "assets/readme/hero.svg" README.next.md
           mv README.next.md README.md
 
-      - name: Commit updated README if changed
+          for f in hero.svg pay-benchmark.svg architecture.svg section-competitions.svg section-careers.svg; do
+            curl -fsSL "https://quantchallenges.com/awesome-readme/$f" -o "assets/readme/$f.next"
+            grep -q "<svg" "assets/readme/$f.next"
+            mv "assets/readme/$f.next" "assets/readme/$f"
+          done
+
+      - name: Commit updated README and SVGs if changed
         run: |
-          if [ -n "$(git status --porcelain README.md)" ]; then
+          if [ -n "$(git status --porcelain README.md assets/readme)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore(daily): sync verified competitions, deadlines & ATS snapshot"
+            git add README.md assets/readme
+            git commit -m "chore(daily): sync verified competitions, deadlines, pay chart & ATS snapshot"
             git push origin HEAD:main
           else
-            echo "README.md is already up to date."
+            echo "README.md and assets are already up to date."
           fi

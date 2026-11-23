@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="arch-title arch-desc">
+  <title id="arch-title">Daily Official-Source Verification Pipeline</title>
+  <desc id="arch-desc">Three-stage architecture showing how official organizer URLs and 66 public ATS boards flow through freshness validation into quantchallenges.com, this README, and live .ics/Atom feeds.</desc>
+
+  <rect width="1200" height="320" rx="16" fill="#070908"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="none" stroke="#29332b" stroke-width="1"/>
+
+  <text x="52" y="54" fill="#c7ff4a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700" letter-spacing="1.4">HOW THIS LIST STAYS FRESH AUTOMATICALLY</text>
+
+  <g transform="translate(52 78)">
+    <rect x="0" y="0" width="330" height="202" rx="10" fill="#0d110e" stroke="#29332b" stroke-width="1"/>
+    <rect x="0" y="0" width="330" height="3" fill="#c7ff4a"/>
+    <text x="22" y="38" fill="#c7ff4a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">01 · PRIMARY SOURCES</text>
+    <text x="22" y="78" fill="#f1f2e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600">Organizer HTTPS rules</text>
+    <text x="22" y="114" fill="#d8dccd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20">66 direct ATS boards</text>
+    <text x="22" y="148" fill="#a8b3aa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Greenhouse · Ashby · Lever</text>
+    <text x="22" y="180" fill="#95d3c1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">Zero aggregators</text>
+  </g>
+
+  <path d="M394 179 H422 M414 170 L424 179 L414 188" fill="none" stroke="#c7ff4a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(435 78)">
+    <rect x="0" y="0" width="330" height="202" rx="10" fill="#0d110e" stroke="#29332b" stroke-width="1"/>
+    <rect x="0" y="0" width="330" height="3" fill="#95d3c1"/>
+    <text x="22" y="38" fill="#95d3c1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">02 · DAILY CI GATES</text>
+    <text x="22" y="78" fill="#f1f2e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600">Auto-expire past cutoffs</text>
+    <text x="22" y="114" fill="#d8dccd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20">Parse official USD ranges</text>
+    <text x="22" y="148" fill="#a8b3aa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">HTTP check active sources</text>
+    <text x="22" y="180" fill="#c7ff4a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">Synced daily 11:00 UTC</text>
+  </g>
+
+  <path d="M777 179 H805 M797 170 L807 179 L797 188" fill="none" stroke="#c7ff4a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(818 78)">
+    <rect x="0" y="0" width="330" height="202" rx="10" fill="#0d110e" stroke="#29332b" stroke-width="1"/>
+    <rect x="0" y="0" width="330" height="3" fill="#c7ff4a"/>
+    <text x="22" y="38" fill="#c7ff4a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">03 · LIVE OUTPUTS</text>
+    <text x="22" y="78" fill="#f1f2e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600">quantchallenges.com</text>
+    <text x="22" y="114" fill="#d8dccd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20">This GitHub README</text>
+    <text x="22" y="148" fill="#a8b3aa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Live .ics · Atom · llms.txt</text>
+    <text x="22" y="180" fill="#95d3c1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">Free browser tools</text>
+  </g>
+</svg>
