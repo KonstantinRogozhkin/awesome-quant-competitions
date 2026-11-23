@@ -1,0 +1,70 @@
+name: Submit or Update a Quant Competition
+description: Add a verified quant trading competition, financial ML benchmark, hackathon, or student fellowship.
+title: "[Competition]: "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to **Awesome Quant Competitions**! Verified submissions are published to [quantchallenges.com](https://quantchallenges.com) and synced automatically into this README and the live `.ics` calendar.
+  - type: input
+    id: name
+    attributes:
+      label: Competition / Program Name
+      placeholder: e.g., Traders@MIT 19th Annual Trading Competition (Spring 2027)
+    validations:
+      required: true
+  - type: input
+    id: organizer
+    attributes:
+      label: Organizer / University Club / Firm
+      placeholder: e.g., Traders@MIT
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Official HTTPS Rules & Registration URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Application / Registration Deadline (with timezone)
+      placeholder: e.g., 2026-12-06 23:59 EST or Weekly recurring rounds
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: Primary Research Track
+      options:
+        - Trading Systems / Market Making
+        - Financial Machine Learning
+        - Market & Macro Forecasting
+        - Alpha & Factor Research
+        - Student Fellowship / Insight Program
+    validations:
+      required: true
+  - type: input
+    id: eligibility
+    attributes:
+      label: Eligibility & Format
+      placeholder: e.g., Online worldwide / Undergraduates & Master's students, teams of 1-4
+    validations:
+      required: true
+  - type: input
+    id: reward
+    attributes:
+      label: Stated Prizes / Funding / Fees
+      placeholder: e.g., $20,000 USD cash prize pool, free entry
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Short Technical Summary
+      description: Describe the modeling task, market simulation, or evaluation metric in 1-2 sentences.
+    validations:
+      required: true
