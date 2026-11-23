@@ -108,8 +108,18 @@ Year-independent tracking pages covering past cycles, typical registration windo
 - **[Bloomberg Global Trading Challenge](https://quantchallenges.com/series/bloomberg-global-trading)** — Bloomberg for Education (undefined)
 - **[Optiver Ready Trader Go & Financial ML Benchmarks](https://quantchallenges.com/series/optiver-ready-trader-go)** — Optiver (undefined)
 - **[Jane Street Forecasting Benchmarks & Student Programs](https://quantchallenges.com/series/jane-street-benchmarks)** — Jane Street (undefined)
+- **[Numerai Tournament & Numerai Signals](https://quantchallenges.com/series/numerai-tournaments)** — Numerai (undefined)
+- **[CrunchDAO & DataCrunch Equity Benchmarks](https://quantchallenges.com/series/crunchdao-datacrunch)** — CrunchDAO (undefined)
+- **[ADIA Lab Structural Break Challenge Series](https://quantchallenges.com/series/adia-lab-structural-break)** — ADIA Lab × CrunchDAO (undefined)
+- **[Metaculus Market Pulse & FutureEval Series](https://quantchallenges.com/series/metaculus-tournaments)** — Metaculus (undefined)
+- **[Good Judgment Open Macro & Econ Series](https://quantchallenges.com/series/good-judgment-open)** — Good Judgment Open (undefined)
+- **[Quantpedia Quantitative Research Awards](https://quantchallenges.com/series/quantpedia-awards)** — Quantpedia (undefined)
+- **[AlphaNova Biweekly Residual Alpha Series](https://quantchallenges.com/series/alphanova-biweekly)** — AlphaNova Capital (undefined)
+- **[Quantiacs Algorithmic Trading Contests](https://quantchallenges.com/series/quantiacs-contests)** — Quantiacs (undefined)
+- **[Imperial College Algothon & Trading Academy](https://quantchallenges.com/series/imperial-algothon)** — Imperial College Algorithmic Trading Society (undefined)
+- **[Susquehanna (SIG) Algothon & Predictions Cup](https://quantchallenges.com/series/sig-algothon-and-predictions)** — Susquehanna International Group (SIG) (undefined)
 
-Browse all 15 series: **[quantchallenges.com/series](https://quantchallenges.com/series)**
+Browse all 25 series: **[quantchallenges.com/series](https://quantchallenges.com/series)**
 
 ### Student Fellowships, Spring Weeks & Insight Programs
 
@@ -145,6 +155,7 @@ Full fellowships directory: **[quantchallenges.com/challenges/fellowships](https
 | Tool | What You Can Do | Link |
 | --- | --- | --- |
 | **Quant Interview Drills** | Timed Optiver 80-in-8 mental math, 5-round market-making quoting sim, 16 worked probability & martingale proofs | [Launch Drills](https://quantchallenges.com/tools/quant-interview-drills) |
+| **Options & Greeks Trainer** | Live Black-Scholes pricer, interactive payoff curve, all 5 Greeks & 14 Optiver/SIG/IMC put-call parity drills | [Open Options Trainer](https://quantchallenges.com/tools/options-greeks-and-parity) |
 | **Pay Explorer & Kelly / Sharpe** | Filter 116 live official USD base salary ranges, compute fractional Kelly sizing & backtest Sharpe t-stats | [Open Calculator](https://quantchallenges.com/tools/quant-comp-and-kelly) |
 | **State of Quant 2026–2027** | Live benchmark charts for median pay by track/seniority, top 10 hiring cities & visa disclosure | [Read Report](https://quantchallenges.com/reports/state-of-quant-2026-2027) |
 | **All Free Quant Tools Hub** | Complete suite of browser calculators, simulators, and live feeds | [View /tools](https://quantchallenges.com/tools) |
@@ -162,7 +173,7 @@ Explore all **73 firm hubs**: **[quantchallenges.com/firms](https://quantchallen
 ### High-Intent Job Hubs & Strategy Playbooks
 
 - **Direct ATS Job Hubs:** [2027 Internships (75)](https://quantchallenges.com/jobs/internships) · [2027 New-Grad](https://quantchallenges.com/jobs/new-grad) · [Disclosed USD Pay (116)](https://quantchallenges.com/jobs/salary-disclosed) · [Visa Sponsorship](https://quantchallenges.com/jobs/visa-sponsorship) · [Remote](https://quantchallenges.com/jobs/remote) · [Quant Researcher](https://quantchallenges.com/jobs/quant-researcher) · [Quant Trader](https://quantchallenges.com/jobs/quant-trader) · [Quant Developer](https://quantchallenges.com/jobs/quant-developer)
-- **Editorial Playbooks:** [2026–2027 Calendar Guide](https://quantchallenges.com/guides/quant-competition-calendar-2026-2027) · [Numerai vs CrunchDAO vs WorldQuant BRAIN](https://quantchallenges.com/guides/numerai-vs-crunchdao-vs-worldquant-brain) · [Market-Making Competitions Guide](https://quantchallenges.com/guides/market-making-and-algo-trading-competitions-guide) · [2027 Internship Timeline](https://quantchallenges.com/guides/2027-quant-internship-fellowship-timeline) · [Quant Base Salary Guide](https://quantchallenges.com/guides/quant-salary-compensation-guide-2026-2027) · [2027 Quant Interview Guide](https://quantchallenges.com/guides/quant-interview-questions-2027) · [All 15 Guides](https://quantchallenges.com/guides)
+- **Editorial Playbooks:** [Jane Street vs Citadel vs Optiver vs IMC](https://quantchallenges.com/guides/jane-street-vs-citadel-vs-optiver-vs-imc-2027) · [Options Pricing & Greeks Guide](https://quantchallenges.com/guides/options-pricing-and-greeks-quant-interview-guide-2027) · [2026–2027 Calendar Guide](https://quantchallenges.com/guides/quant-competition-calendar-2026-2027) · [Numerai vs CrunchDAO vs WorldQuant](https://quantchallenges.com/guides/numerai-vs-crunchdao-vs-worldquant-brain) · [Prop Firm vs Hedge Fund](https://quantchallenges.com/guides/prop-trading-firm-vs-quant-hedge-fund-2027) · [C++ vs Python vs OCaml](https://quantchallenges.com/guides/cpp-vs-python-vs-ocaml-in-quant-trading-2027) · [All 20 Guides](https://quantchallenges.com/guides)
 - **Machine-Readable & LLM Feeds:** [`calendar.ics`](https://quantchallenges.com/challenges/calendar.ics) · [`feed.xml`](https://quantchallenges.com/challenges/feed.xml) · [`/challenges.md`](https://quantchallenges.com/challenges.md) · [`/jobs.md`](https://quantchallenges.com/jobs.md) · [`/llms.txt`](https://quantchallenges.com/llms.txt)
 
 ---
