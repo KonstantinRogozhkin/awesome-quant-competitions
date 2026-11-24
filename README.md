@@ -5,15 +5,17 @@
 </p>
 
 <p align="center">
-  <a href="https://quantchallenges.com/challenges/open"><strong>Open Competitions (41)</strong></a>
+  <a href="https://quantchallenges.com/challenges/open"><strong>Open Competitions (42)</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://calendar.google.com/calendar/render?cid=webcal://quantchallenges.com/challenges/calendar.ics"><strong>Add .ics to Google Calendar</strong></a>
+  <a href="https://calendar.google.com/calendar/render?cid=webcal://quantchallenges.com/challenges/calendar.ics"><strong>Add .ics Calendar</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://quantchallenges.com/tools/quant-interview-drills"><strong>80-in-8 &amp; MM Drills</strong></a>
+  <a href="https://quantchallenges.com/problems"><strong>60 Interview Problems</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://quantchallenges.com/tools/80-in-8-mental-math"><strong>80-in-8 &amp; Sequences</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://quantchallenges.com/cheatsheet"><strong>Formula Cheat Sheet</strong></a>
   &nbsp;·&nbsp;
   <a href="https://quantchallenges.com/jobs"><strong>Direct ATS Jobs (552)</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://quantchallenges.com/reports/state-of-quant-2026-2027"><strong>2026–2027 Pay Report</strong></a>
 </p>
 
 An official-source, daily-verified directory for **quantitative trading competitions**, **financial ML benchmarks**, **student fellowships**, **free interview drills**, and **direct-employer ATS quant openings** (2026–2027). Every competition links straight to organizer HTTPS rules; every live job is parsed directly from Greenhouse, Ashby, or Lever with zero fabricated salary estimates.
@@ -36,7 +38,7 @@ Filter every individual USD base salary range interactively in the **[Quant Base
 
 1. **Never miss a deadline:** [Add the live `.ics` calendar to Google Calendar](https://calendar.google.com/calendar/render?cid=webcal://quantchallenges.com/challenges/calendar.ics), open in [Apple / Outlook](webcal://quantchallenges.com/challenges/calendar.ics), or follow the [Atom/RSS feed](https://quantchallenges.com/challenges/feed.xml).
 2. **Pick an active competition below:** enter a dated student/global contest or a weekly recurring alpha tournament.
-3. **Train for prop-firm screens free:** launch the browser-based [Optiver 80-in-8 mental math sprint, market-making simulator & 16 probability proofs](https://quantchallenges.com/tools/quant-interview-drills).
+3. **Train for prop-firm screens free:** practice [Optiver 80-in-8 mental math](https://quantchallenges.com/tools/80-in-8-mental-math), [Number Sequences (26-in-20)](https://quantchallenges.com/tools/number-sequences), [Market-Making Game](https://quantchallenges.com/tools/market-making-game), and [60 worked quant interview problems](https://quantchallenges.com/problems).
 
 ---
 
@@ -62,6 +64,7 @@ Filter every individual USD base salary range interactively in the **[Quant Base
 | [Right! said FRED: Q4 2026 Finance and Economics…](https://quantchallenges.com/challenges/right-said-fred-q4-2026-finance-and-economics-challenge-qc-2952) | Good Judgment Open | `2027-01-01` | Special GJO badges for top three qualifying… | [Rules](https://www.gjopen.com/challenges/144-right-said-fred-q4-2026-finance-and-economics-challenge) |
 | [Fall 2026 FutureEval Bot Tournament](https://quantchallenges.com/challenges/fall-2026-futureeval-bot-tournament-qc-2934) | Metaculus / FutureEval | `2027-01-06` | $50,000 prize pool | [Rules](https://www.metaculus.com/tournament/fall-futureeval-2026/) |
 | [Citadel Datathons](https://quantchallenges.com/challenges/citadel-datathons-qc-2735) | Citadel / Citadel Securities /… | `2027-01-11` | Cash prize and eligibility to interview with… | [Rules](https://www.citadel.com/careers/programs-and-events/datathons/) |
+| [Jane Street Protocol Emulator ASIC Competition](https://quantchallenges.com/challenges/jane-street-protocol-emulator-asic-competition-qc-2977) | Jane Street | `2027-01-18` | Jane Street sponsors IHP 130nm CMOS5L… | [Rules](https://blog.janestreet.com/protocol-emulator-asic-competition/) |
 | [Discover Citadel & Citadel Securities 2027](https://quantchallenges.com/challenges/discover-citadel-and-citadel-securities-2027-qc-2974) | Citadel × Citadel Securities | `2027-01-29` | All-expenses-paid two-day quant & trading… | [Rules](https://www.citadel.com/careers/programs-and-events/discover-citadel/) |
 | [Artificial Intelligence in 2026 and Beyond](https://quantchallenges.com/challenges/artificial-intelligence-in-2026-and-beyond-qc-2971) | Good Judgment Open | `2027-02-01` | Good Judgment Open leaderboard rankings &… | [Rules](https://www.gjopen.com/challenges/133-artificial-intelligence-in-2026-and-beyond) |
 | [2027 Stevens High Frequency Trading Competition](https://quantchallenges.com/challenges/2027-stevens-high-frequency-trading-competition-qc-2951) | Stevens Institute of Technology | `2027-02-15` | $4,800 total prize pool | [Rules](https://fsc.stevens.edu/hftc/) |
@@ -101,31 +104,31 @@ Full chronological schedule & club embed snippet: **[quantchallenges.com/challen
 
 Year-independent tracking pages covering past cycles, typical registration windows, and preparation notes:
 
-- **[IMC Prosperity Global Trading Challenge](https://quantchallenges.com/series/imc-prosperity)** — IMC Trading (undefined)
-- **[Traders@MIT Annual Trading Competition](https://quantchallenges.com/series/traders-mit)** — Traders@MIT (undefined)
-- **[Berkeley Trading Competition (BTC)](https://quantchallenges.com/series/berkeley-btc)** — Traders at Berkeley (undefined)
-- **[Yale Undergraduate Trading Competition (YUTC)](https://quantchallenges.com/series/yale-yutc)** — Yale Undergraduate Quantitative Group (undefined)
-- **[Stevens High-Frequency Trading Competition (HFTC)](https://quantchallenges.com/series/stevens-hft)** — Stevens Institute of Technology (Hanlon Financial Systems Center) (undefined)
-- **[Citadel Securities Trading Invitational](https://quantchallenges.com/series/citadel-trading-invitational)** — Citadel Securities (undefined)
-- **[Citadel & Correlation One Datathons](https://quantchallenges.com/series/citadel-datathons)** — Citadel / Citadel Securities / Correlation One (undefined)
-- **[Akuna Capital Virtual Quant Trading Challenge](https://quantchallenges.com/series/akuna-quant-challenge)** — Akuna Capital (undefined)
-- **[WorldQuant International Quant Championship (IQC) & BRAIN](https://quantchallenges.com/series/worldquant-iqc)** — WorldQuant BRAIN (undefined)
-- **[Rotman International Trading Competition (RITC)](https://quantchallenges.com/series/rotman-ritc)** — Rotman School of Management (University of Toronto) (undefined)
-- **[UChicago Trading Competition](https://quantchallenges.com/series/uchicago-trading-competition)** — University of Chicago Financial Markets Program (undefined)
-- **[Cornell Trading Competition](https://quantchallenges.com/series/cornell-trading-competition)** — Cornell Quant Fund (undefined)
-- **[Bloomberg Global Trading Challenge](https://quantchallenges.com/series/bloomberg-global-trading)** — Bloomberg for Education (undefined)
-- **[Optiver Ready Trader Go & Financial ML Benchmarks](https://quantchallenges.com/series/optiver-ready-trader-go)** — Optiver (undefined)
-- **[Jane Street Forecasting Benchmarks & Student Programs](https://quantchallenges.com/series/jane-street-benchmarks)** — Jane Street (undefined)
-- **[Numerai Tournament & Numerai Signals](https://quantchallenges.com/series/numerai-tournaments)** — Numerai (undefined)
-- **[CrunchDAO & DataCrunch Equity Benchmarks](https://quantchallenges.com/series/crunchdao-datacrunch)** — CrunchDAO (undefined)
-- **[ADIA Lab Structural Break Challenge Series](https://quantchallenges.com/series/adia-lab-structural-break)** — ADIA Lab × CrunchDAO (undefined)
-- **[Metaculus Market Pulse & FutureEval Series](https://quantchallenges.com/series/metaculus-tournaments)** — Metaculus (undefined)
-- **[Good Judgment Open Macro & Econ Series](https://quantchallenges.com/series/good-judgment-open)** — Good Judgment Open (undefined)
-- **[Quantpedia Quantitative Research Awards](https://quantchallenges.com/series/quantpedia-awards)** — Quantpedia (undefined)
-- **[AlphaNova Biweekly Residual Alpha Series](https://quantchallenges.com/series/alphanova-biweekly)** — AlphaNova Capital (undefined)
-- **[Quantiacs Algorithmic Trading Contests](https://quantchallenges.com/series/quantiacs-contests)** — Quantiacs (undefined)
-- **[Imperial College Algothon & Trading Academy](https://quantchallenges.com/series/imperial-algothon)** — Imperial College Algorithmic Trading Society (undefined)
-- **[Susquehanna (SIG) Algothon & Predictions Cup](https://quantchallenges.com/series/sig-algothon-and-predictions)** — Susquehanna International Group (SIG) (undefined)
+- **[IMC Prosperity Global Trading Challenge](https://quantchallenges.com/series/imc-prosperity)** — IMC Trading (Registration typically opens in Q1 (Feb–Mar) for a multi-round April competition window)
+- **[Traders@MIT Annual Trading Competition](https://quantchallenges.com/series/traders-mit)** — Traders@MIT (Student applications close in early December for a March in-person weekend at MIT)
+- **[Berkeley Trading Competition (BTC)](https://quantchallenges.com/series/berkeley-btc)** — Traders at Berkeley (Applications close in early December for a late-February weekend at UC Berkeley)
+- **[Yale Undergraduate Trading Competition (YUTC)](https://quantchallenges.com/series/yale-yutc)** — Yale Undergraduate Quantitative Group (Applications close in early December for an early-April weekend in New Haven)
+- **[Stevens High-Frequency Trading Competition (HFTC)](https://quantchallenges.com/series/stevens-hft)** — Stevens Institute of Technology (Hanlon Financial Systems Center) (Registration runs through mid-February for a March–May live trading season)
+- **[Citadel Securities Trading Invitational](https://quantchallenges.com/series/citadel-trading-invitational)** — Citadel Securities (Typically hosted in Spring (New York City) with applications opening in late fall / winter)
+- **[Citadel & Correlation One Datathons](https://quantchallenges.com/series/citadel-datathons)** — Citadel / Citadel Securities / Correlation One (Rolling regional & themed cohorts throughout the academic year)
+- **[Akuna Capital Virtual Quant Trading Challenge](https://quantchallenges.com/series/akuna-quant-challenge)** — Akuna Capital (Typically runs in autumn (September–October) online)
+- **[WorldQuant International Quant Championship (IQC) & BRAIN](https://quantchallenges.com/series/worldquant-iqc)** — WorldQuant BRAIN (IQC opens each spring (finishing with global finals in autumn); BRAIN Consultant runs year-round)
+- **[Rotman International Trading Competition (RITC)](https://quantchallenges.com/series/rotman-ritc)** — Rotman School of Management (University of Toronto) (Annual winter/spring finals in Toronto with university team nominations in autumn)
+- **[UChicago Trading Competition](https://quantchallenges.com/series/uchicago-trading-competition)** — University of Chicago Financial Markets Program (Applications typically close in mid-January for a spring two-day competition in Chicago)
+- **[Cornell Trading Competition](https://quantchallenges.com/series/cornell-trading-competition)** — Cornell Quant Fund (Applications typically close in mid-September for an October weekend in New York City)
+- **[Bloomberg Global Trading Challenge](https://quantchallenges.com/series/bloomberg-global-trading)** — Bloomberg for Education (Registration opens in late summer / September for an October–November trading window)
+- **[Optiver Ready Trader Go & Financial ML Benchmarks](https://quantchallenges.com/series/optiver-ready-trader-go)** — Optiver (Ready Trader Go runs seasonally; Optiver's Kaggle volatility & closing-auction datasets remain public year-round)
+- **[Jane Street Forecasting Benchmarks & Student Programs](https://quantchallenges.com/series/jane-street-benchmarks)** — Jane Street (Student programs (FTTP, AMP, Immersion, GRF) open across fall–spring; Kaggle benchmarks are open archives)
+- **[Numerai Tournament & Numerai Signals](https://quantchallenges.com/series/numerai-tournaments)** — Numerai (Continuous weekly rounds (5-day and 20-day live out-of-sample scoring windows))
+- **[CrunchDAO & DataCrunch Equity Benchmarks](https://quantchallenges.com/series/crunchdao-datacrunch)** — CrunchDAO (Weekly Sunday 12:00 UTC rounds (DataCrunch) plus rolling real-time challenges (Synth))
+- **[ADIA Lab Structural Break Challenge Series](https://quantchallenges.com/series/adia-lab-structural-break)** — ADIA Lab × CrunchDAO (Annual flagship $100K editions plus continuous quarterly Open Benchmark rounds)
+- **[Metaculus Market Pulse & FutureEval Series](https://quantchallenges.com/series/metaculus-tournaments)** — Metaculus (Quarterly Market Pulse financial series, seasonal Metaculus Cups & quarterly AI Bot Tournaments)
+- **[Good Judgment Open Macro & Econ Series](https://quantchallenges.com/series/good-judgment-open)** — Good Judgment Open (Rolling multi-quarter macro, interest-rate, PMI and energy forecasting challenges)
+- **[Quantpedia Quantitative Research Awards](https://quantchallenges.com/series/quantpedia-awards)** — Quantpedia (Annual research-paper cycle closing December 31 each year for papers published May–Dec)
+- **[AlphaNova Biweekly Residual Alpha Series](https://quantchallenges.com/series/alphanova-biweekly)** — AlphaNova Capital (Continuous two-week submission cycles followed by one-month live walk-forward scoring)
+- **[Quantiacs Algorithmic Trading Contests](https://quantchallenges.com/series/quantiacs-contests)** — Quantiacs (Rolling multi-asset futures, crypto and equity strategy contests with live out-of-sample windows)
+- **[Imperial College Algothon & Trading Academy](https://quantchallenges.com/series/imperial-algothon)** — Imperial College Algorithmic Trading Society (Annual UK/European autumn–winter algothon and spring trading academy workshops)
+- **[Susquehanna (SIG) Algothon & Predictions Cup](https://quantchallenges.com/series/sig-algothon-and-predictions)** — Susquehanna International Group (SIG) (Annual regional university algothons (UNSW / APAC / Ireland) and seasonal Predictions Cups)
 
 Browse all 25 series: **[quantchallenges.com/series](https://quantchallenges.com/series)**
 
@@ -140,6 +143,7 @@ Browse all 25 series: **[quantchallenges.com/series](https://quantchallenges.com
 | [Discover Citadel & Citadel Securities 2027](https://quantchallenges.com/challenges/discover-citadel-and-citadel-securities-2027-qc-2974) | Citadel × Citadel… | Applications open | All-expenses-paid two-day quant & trading… | [Rules](https://www.citadel.com/careers/programs-and-events/discover-citadel/) |
 | [D.E. Shaw Quantitative & Tech Fellowships](https://quantchallenges.com/challenges/d-e-shaw-quantitative-and-tech-fellowships-qc-2958) | D.E. Shaw | Annual cohorts | Paid educational fellowships with stipends… | [Rules](https://www.deshaw.com/careers/fellowships) |
 | [Citadel GQS PhD Fellowship](https://quantchallenges.com/challenges/citadel-gqs-phd-fellowship-qc-2973) | Citadel | Opens 01 Dec | $150,000 grant per fellow (3 fellowships… | [Rules](https://www.citadel.com/careers/programs-and-events/gqs-phd-fellowship/) |
+| [Jane Street WiSE (Women in STEM) 2027](https://quantchallenges.com/challenges/jane-street-wise-women-in-stem-2027-qc-2978) | Jane Street | Watch 2027 sessions | All-expenses-paid multi-day workshop… | [Rules](https://www.janestreet.com/join-jane-street/programs-and-events/wise/) |
 
 Full fellowships directory: **[quantchallenges.com/challenges/fellowships](https://quantchallenges.com/challenges/fellowships)**
 
@@ -153,7 +157,7 @@ Full fellowships directory: **[quantchallenges.com/challenges/fellowships](https
 
 - **No stale "open" badges:** fixed-deadline contests expire automatically once cutoffs pass or source checks age past 45 days.
 - **No aggregator middlemen:** every contest links to organizer HTTPS rules and every live job links directly to Greenhouse, Ashby, or Lever.
-- **Daily automated sync:** `README.md` and the SVG snapshots refresh automatically from [quantchallenges.com](https://quantchallenges.com) (last synced `2026-11-23`).
+- **Daily automated sync:** `README.md` and the SVG snapshots refresh automatically from [quantchallenges.com](https://quantchallenges.com) (last synced `2026-11-24`).
 
 ---
 
@@ -161,15 +165,19 @@ Full fellowships directory: **[quantchallenges.com/challenges/fellowships](https
   <img src="./assets/readme/section-careers.svg" width="100%" alt="Section 02: Direct ATS Jobs, 73 Quant Firm Hubs, Interview Drills & Strategy Guides">
 </p>
 
-### Free Interactive Quant Tools (No Login)
+### Free Interactive Quant Tools & Problem Bank (No Login)
 
 | Tool | What You Can Do | Link |
 | --- | --- | --- |
-| **Quant Interview Drills** | Timed Optiver 80-in-8 mental math, 5-round market-making quoting sim, 16 worked probability & martingale proofs | [Launch Drills](https://quantchallenges.com/tools/quant-interview-drills) |
-| **Options & Greeks Trainer** | Live Black-Scholes pricer, interactive payoff curve, all 5 Greeks & 14 Optiver/SIG/IMC put-call parity drills | [Open Options Trainer](https://quantchallenges.com/tools/options-greeks-and-parity) |
-| **Pay Explorer & Kelly / Sharpe** | Filter 116 live official USD base salary ranges, compute fractional Kelly sizing & backtest Sharpe t-stats | [Open Calculator](https://quantchallenges.com/tools/quant-comp-and-kelly) |
+| **Optiver 80-in-8 Mental Math** | Official 80-in-8 (+1/−1), Zetamac 120s rapid arithmetic & fractions/decimals sprint with PB tracking | [Start 80-in-8](https://quantchallenges.com/tools/80-in-8-mental-math) |
+| **Number Sequences Test** | Optiver 26-in-20 exam, Akuna 10-Q sprint & 68 pattern families with step-by-step formulas | [Practice Sequences](https://quantchallenges.com/tools/number-sequences) |
+| **Market-Making Game** | 5 interview scenarios (dice, cards, earnings vol, informed sharks) with 100-point debrief | [Play Simulator](https://quantchallenges.com/tools/market-making-game) |
+| **60 Worked Interview Problems** | Searchable Probability, EV, Markov, Options & Brainteaser bank with live numeric answer checking | [Solve Problems](https://quantchallenges.com/problems) |
+| **Options & Greeks Trainer** | Live Black-Scholes pricer, interactive payoff curve, all 5 Greeks & 14 put-call parity drills | [Open Options Trainer](https://quantchallenges.com/tools/options-greeks-and-parity) |
+| **Formula Cheat Sheet (PDF)** | Print-ready 8-section quant interview reference: Bayes, 9 distributions, Markov, Greeks & Kelly | [Open Cheat Sheet](https://quantchallenges.com/cheatsheet) |
+| **Pay Explorer & Kelly / Sharpe** | Filter 116 live official USD base salary ranges, compute fractional Kelly & Sharpe t-stats | [Open Calculator](https://quantchallenges.com/tools/quant-comp-and-kelly) |
+| **18 Firm Comparisons (vs)** | Head-to-head matchups (Jane Street vs Citadel, Optiver vs IMC) powered by live ATS roles & pay | [Compare Firms](https://quantchallenges.com/compare) |
 | **State of Quant 2026–2027** | Live benchmark charts for median pay by track/seniority, top 10 hiring cities & visa disclosure | [Read Report](https://quantchallenges.com/reports/state-of-quant-2026-2027) |
-| **All Free Quant Tools Hub** | Complete suite of browser calculators, simulators, and live feeds | [View /tools](https://quantchallenges.com/tools) |
 
 ### Direct-Employer Quant Firm Hubs (78 Firms)
 
@@ -189,10 +197,27 @@ Explore all **78 firm hubs**: **[quantchallenges.com/firms](https://quantchallen
 
 ---
 
-## Contributing & License
+## Related Awesome Lists
+
+Complementary open-source quantitative finance, systematic trading, AI-in-finance, and quant interview repositories:
+
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) — Insanely curated list of libraries, packages, and resources for quantitative finance across Python, C++, R, and Rust.
+- [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) — Curated library of systematic trading strategies, backtesting frameworks, research blogs, and courses.
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) — Systematic trading resources, execution libraries, market data tools, and engineering references.
+- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) — Curated papers, datasets, and tooling for machine learning and AI in quantitative finance.
+- [thuquant/awesome-quant](https://github.com/thuquant/awesome-quant) — Bilingual Chinese & English quantitative finance resource index (中国的 Quant 相关资源索引).
+- [cybergeekgyan/Quant-Developers-Resources](https://github.com/cybergeekgyan/Quant-Developers-Resources) — Quant developer books, C++/low-latency guides, websites, and career preparation material.
+- [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) — Open-source roadmap to quantitative finance and HFT maintained by the Hunan University FinTech Quant Group.
+- [LLMQuant/awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) — Curated directory of LLM trading agents, financial MCP tooling, and multi-agent market research.
+- [SoYuCry/awesome-quant-interview](https://github.com/SoYuCry/awesome-quant-interview) — Quantitative finance interview preparation books, probability guides, and recruiting resources.
+- [leoncuhk/awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) — AI-driven quantitative research papers, benchmarks, and engineering ecosystems.
+- [aowang-ai/awesome-finance-agents](https://github.com/aowang-ai/awesome-finance-agents) — Financial AI agents, research tools, and open-source quant workflows.
+
+---
+
+## Contributing
 
 Running a university trading competition, quant hackathon, financial ML benchmark, or student fellowship?
 
 - Open a **[Submit a Quant Competition issue](https://github.com/KonstantinRogozhkin/awesome-quant-competitions/issues/new?template=submit-competition.yml)** with your official HTTPS rules link, or submit directly at **[quantchallenges.com/submit](https://quantchallenges.com/submit)**.
 - Read [CONTRIBUTING.md](./CONTRIBUTING.md) for inclusion criteria and university club `.ics` embed snippets.
-- Dedicated to the public domain under **[CC0 1.0 Universal](./LICENSE)**.
