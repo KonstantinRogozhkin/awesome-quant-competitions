@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="pay-title pay-desc">
   <title id="pay-title">Employer-Stated Quant Base Pay Benchmarks (2026–2027)</title>
-  <desc id="pay-desc">Horizontal bar chart showing median annualized USD base salaries parsed from 112 live direct-employer ATS quant postings across 71 firms.</desc>
+  <desc id="pay-desc">Horizontal bar chart showing median annualized USD base salaries parsed from 117 live direct-employer ATS quant postings across 77 firms.</desc>
 
   <rect width="1200" height="360" rx="16" fill="#070908"/>
   <rect x="0.5" y="0.5" width="1199" height="359" rx="16" fill="none" stroke="#29332b" stroke-width="1"/>
@@ -8,20 +8,20 @@
 
   <text x="52" y="64" fill="#f1f2e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="36" font-weight="700" letter-spacing="-0.8">Employer-Stated Quant Base Pay (2026–2027)</text>
   <text x="1148" y="64" text-anchor="end" fill="#c7ff4a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">BASE ONLY · NO ESTIMATES</text>
-  <text x="52" y="92" fill="#a8b3aa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Median annualized USD midpoint across 112 official Greenhouse, Ashby &amp; Lever postings (synced 2026-11-25).</text>
+  <text x="52" y="92" fill="#a8b3aa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Median annualized USD midpoint across 117 official Greenhouse, Ashby &amp; Lever postings (synced 2026-11-26).</text>
 
   
     <g transform="translate(52 112)">
       <text x="0" y="23" fill="#f1f2e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21" font-weight="600">2027 Internships</text>
       <rect x="280" y="4" width="540" height="24" rx="4" fill="#131914" stroke="#29332b" stroke-width="1"/>
       <rect x="280" y="4" width="506" height="24" rx="4" fill="#c7ff4a"/>
-      <text x="802" y="23" fill="#c7ff4a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700">$263K (n=12)</text>
+      <text x="802" y="23" fill="#c7ff4a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700">$263K (n=14)</text>
     </g>
     <g transform="translate(52 156)">
       <text x="0" y="23" fill="#f1f2e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21" font-weight="600">Quant Dev &amp; Systems</text>
       <rect x="280" y="4" width="540" height="24" rx="4" fill="#131914" stroke="#29332b" stroke-width="1"/>
       <rect x="280" y="4" width="391" height="24" rx="4" fill="#95d3c1"/>
-      <text x="687" y="23" fill="#95d3c1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700">$203K (n=33)</text>
+      <text x="687" y="23" fill="#95d3c1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700">$203K (n=35)</text>
     </g>
     <g transform="translate(52 200)">
       <text x="0" y="23" fill="#f1f2e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21" font-weight="600">Quant Research</text>
@@ -33,7 +33,7 @@
       <text x="0" y="23" fill="#f1f2e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21" font-weight="600">Quant Trading &amp; Exec</text>
       <rect x="280" y="4" width="540" height="24" rx="4" fill="#131914" stroke="#29332b" stroke-width="1"/>
       <rect x="280" y="4" width="289" height="24" rx="4" fill="#95d3c1"/>
-      <text x="585" y="23" fill="#95d3c1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700">$150K (n=35)</text>
+      <text x="585" y="23" fill="#95d3c1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700">$150K (n=38)</text>
     </g>
     <g transform="translate(52 288)">
       <text x="0" y="23" fill="#f1f2e8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21" font-weight="600">2027 New-Grad</text>
