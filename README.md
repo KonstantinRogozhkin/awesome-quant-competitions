@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://quantchallenges.com">
-    <img src="./assets/readme/hero.svg" width="100%" alt="Awesome Quant Competitions — verified trading contests, student fellowships, live upcoming cutoffs, and 579 direct-employer ATS quant jobs">
+    <img src="./assets/readme/hero.svg" width="100%" alt="Awesome Quant Competitions — verified trading contests, student fellowships, live upcoming cutoffs, and 586 direct-employer ATS quant jobs">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://quantchallenges.com/challenges/open"><strong>Open Competitions (52)</strong></a>
+  <a href="https://quantchallenges.com/challenges/open"><strong>Open Competitions (57)</strong></a>
   &nbsp;·&nbsp;
   <a href="https://calendar.google.com/calendar/render?cid=webcal://quantchallenges.com/challenges/calendar.ics"><strong>Add .ics Calendar</strong></a>
   &nbsp;·&nbsp;
@@ -15,7 +15,7 @@
   &nbsp;·&nbsp;
   <a href="https://quantchallenges.com/cheatsheet"><strong>Formula Cheat Sheet</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://quantchallenges.com/jobs"><strong>Direct ATS Jobs (579)</strong></a>
+  <a href="https://quantchallenges.com/jobs"><strong>Direct ATS Jobs (586)</strong></a>
 </p>
 
 An official-source, daily-verified directory for **quantitative trading competitions**, **financial ML benchmarks**, **student fellowships**, **free interview drills**, and **direct-employer ATS quant openings** (2026–2027). Every competition links straight to organizer HTTPS rules; every live job is parsed directly from Greenhouse, Ashby, or Lever with zero fabricated salary estimates.
@@ -90,23 +90,28 @@ Full chronological schedule & club embed snippet: **[quantchallenges.com/challen
 | Platform | Organizer | Cadence | Stated Reward | Source |
 | --- | --- | --- | --- | --- |
 | [Agent Trading Tournament](https://quantchallenges.com/challenges/agent-trading-tournament-qc-2885) | Kuru | Rolling / see rules | $100,000 pool; fixed rank awards | [Rules](https://arena.kuru.io/) |
+| [AgentIQ Arena Beta — Crypto](https://quantchallenges.com/challenges/agentiq-arena-beta-crypto-qc-2869) | AgentIQ Arena | Rolling / see rules | $10,000 simulated capital per agent; no… | [Rules](https://www.agentiqarena.com/) |
 | [AI4Finance Open Trading Challenge](https://quantchallenges.com/challenges/ai4finance-open-trading-challenge-qc-2714) | AI4Finance Foundation | rolling / pilot quarter | $3,500 / $1,000 / $500 prizes | [Rules](https://ai4finance.org/competition) |
 | [ALGOGENE Global Algo Challenge](https://quantchallenges.com/challenges/algogene-global-algo-challenge-qc-2710) | ALGOGENE | varies by contest | Official contest page advertises cash… | [Rules](https://algogene.com/contest) |
 | [AlphaNova Biweekly Season 1](https://quantchallenges.com/challenges/alphanova-biweekly-season-1-qc-2601) | AlphaNova Capital | Two-week submission cycles | Up to $2,500 + carry-over per cycle | [Rules](https://www.alphanova.tech/competition) |
 | [AlphArena AI Trading Agent Arena](https://quantchallenges.com/challenges/alpharena-ai-trading-agent-arena-qc-2844) | AlphArena | Rolling / see rules | Verified paper-trading leaderboard and… | [Rules](https://alpharena.io/) |
+| [CrunchDAO Falcon: The Collective Pricing Engine](https://quantchallenges.com/challenges/crunchdao-falcon-the-collective-pricing-engine-qc-2991) | CrunchDAO | 3-month live season (started 17… | Weekly realized-wealth reward pool… | [Rules](https://docs.crunchdao.com/real-time-competitions/competitions/falcon) |
+| [CrunchDAO Numinous: Predictive Agents For Real…](https://quantchallenges.com/challenges/crunchdao-numinous-predictive-agents-for-real-world-outcome-qc-2990) | CrunchDAO × Numinous | Weekly Mondays 12:00 GMT ·… | $5,000 USDC Phase 2 pool + ongoing Numinous… | [Rules](https://docs.crunchdao.com/real-time-competitions/competitions/numinous) |
 | [DataCrunch Competition](https://quantchallenges.com/challenges/datacrunch-competition-qc-2835) | CrunchDAO / DataCrunch | Weekly · Fri 20:00 – Tue 12:00 UTC | Rewards distributed monthly: 60,000 USDC… | [Rules](https://docs.crunchdao.com/competitions/competitions/datacrunch-competition) |
 | [DataCrunch Equity Market Neutral #2](https://quantchallenges.com/challenges/datacrunch-equity-market-neutral-2-qc-2608) | DataCrunch × CrunchDAO | Sun · 12:00 UTC | 1,000 USDC weekly pool | [Rules](https://docs.crunchdao.com/competitions/competitions/datacrunch-2) |
 | [Duke FinTech Trading Competition](https://quantchallenges.com/challenges/duke-fintech-trading-competition-qc-2924) | Duke FinTech / Gothic Hedge… | Continual rolling signup | No cash prize listed; recognition through… | [Rules](https://fintechtradingcompetition.com/) |
-| [ForgeAlpha Challenge](https://quantchallenges.com/challenges/forgealpha-challenge-qc-2908) | ForgeAlpha | Rolling / see rules | $100 Starter / $500 Pro | [Rules](https://forgealpha.cloud/challenge) |
+| [ForgeAlpha Challenge](https://quantchallenges.com/challenges/forgealpha-challenge-qc-2908) | ForgeAlpha | Rolling · 60-day Starter /… | $100 Starter / $500 Pro cash payout | [Rules](https://forgealpha.cloud/challenge) |
 | [G-Research Spring into Quant Finance](https://quantchallenges.com/challenges/g-research-spring-into-quant-finance-qc-2957) | G-Research | Spring 2027 applications open… | Fully funded week-long residential quant… | [Rules](https://www.gresearch.com/spring-into-quant-finance/) |
 | [Global Quant Trading Challenge](https://quantchallenges.com/challenges/global-quant-trading-challenge-qc-2818) | ALGOGENE FINTECH CO. LTD. | Rolling / see rules | Funded capital plans of… | [Rules](https://algogene.com/contest/quant) |
 | [Jane Street Quant Programs & Fellowships (FTTP,…](https://quantchallenges.com/challenges/jane-street-quant-programs-and-fellowships-fttp-amp-grf-qc-2956) | Jane Street | Multiple annual cohorts (FTTP,… | Paid immersion programs, stipends and… | [Rules](https://www.janestreet.com/join-jane-street/programs-and-events/) |
 | [League of Algo Challenge](https://quantchallenges.com/challenges/league-of-algo-challenge-qc-2832) | ALGOGENE FINTECH CO. LTD. | Rolling / see rules | Top qualified algorithms may engage… | [Rules](https://algogene.com/contest/league) |
 | [Metaculus Forecasting Tournaments](https://quantchallenges.com/challenges/metaculus-forecasting-tournaments-qc-2707) | Metaculus | Varies by tournament | Varies by tournament; some list cash prize… | [Rules](https://www.metaculus.com/tournaments/) |
+| [MIT Pokerbots 2027](https://quantchallenges.com/challenges/mit-pokerbots-2027-qc-2992) | MIT Pokerbots (Course 6.9630) | Pre-registration open · IAP… | Over $50,000 in prizes + quant trading firm… | [Rules](https://pokerbots.org/) |
 | [Numerai Signals](https://quantchallenges.com/challenges/numerai-signals-qc-2610) | Numerai | Weekly rounds | NMR reward / burn risk | [Rules](https://signals.numer.ai/) |
 | [Numerai Tournament](https://quantchallenges.com/challenges/numerai-tournament-qc-2609) | Numerai | Weekly rounds | Performance-based NMR | [Rules](https://forum.numer.ai/t/numerai-v5-3-quantum-data-release/8321) |
 | [Optiver Student Programs — FutureFocus & Career…](https://quantchallenges.com/challenges/optiver-student-programs-futurefocus-and-career-kickstarter-2027-qc-2967) | Optiver | 06 Dec 2026 (Amsterdam Career… | Funded multi-day educational trading/quant… | [Rules](https://www.optiver.com/join-us/students/) |
 | [Predictoor Data Farming](https://quantchallenges.com/challenges/predictoor-data-farming-qc-2845) | Ocean Protocol | Weekly Data Farming rounds… | 100 USDC weekly DF pool distributed pro rata… | [Rules](https://docs.oceanprotocol.com/data-farming/predictoordf) |
+| [Prizefight AI Agent Trading Competition](https://quantchallenges.com/challenges/prizefight-ai-agent-trading-competition-qc-2895) | Prizefight | Weekly seasons (Fri close – Wed… | 10,000,000 $PRIZE total purse escrowed… | [Rules](https://prizefight.gg/) |
 | [Quantiacs Contests](https://quantchallenges.com/challenges/quantiacs-contests-qc-2611) | Quantiacs | Varies by contest | Capital + profit share | [Rules](https://quantiacs.com/contest) |
 | [Synth: Synthetic Price Data](https://quantchallenges.com/challenges/synth-synthetic-price-data-qc-2612) | CrunchDAO × Synth | Rolling | 30,000 USDC pool and ongoing mining rewards;… | [Rules](https://docs.crunchdao.com/real-time-competitions/competitions/synth/) |
 
@@ -168,7 +173,7 @@ Full fellowships directory: **[quantchallenges.com/challenges/fellowships](https
 
 - **No stale "open" badges:** fixed-deadline contests expire automatically once cutoffs pass or source checks age past 45 days.
 - **No aggregator middlemen:** every contest links to organizer HTTPS rules and every live job links directly to Greenhouse, Ashby, or Lever.
-- **Daily automated sync:** `README.md` and the SVG snapshots refresh automatically from [quantchallenges.com](https://quantchallenges.com) (last synced `2026-11-26`).
+- **Daily automated sync:** `README.md` and the SVG snapshots refresh automatically from [quantchallenges.com](https://quantchallenges.com) (last synced `2026-11-27`).
 
 ---
 
@@ -190,7 +195,7 @@ Full fellowships directory: **[quantchallenges.com/challenges/fellowships](https
 | **26 Firm Comparisons (vs)** | Head-to-head matchups (Jane Street vs Citadel, Optiver vs IMC) powered by live ATS roles & pay | [Compare Firms](https://quantchallenges.com/compare) |
 | **State of Quant 2026–2027** | Live benchmark charts for median pay by track/seniority, top 10 hiring cities & visa disclosure | [Read Report](https://quantchallenges.com/reports/state-of-quant-2026-2027) |
 
-### Direct-Employer Quant Firm Hubs (86 Firms)
+### Direct-Employer Quant Firm Hubs (91 Firms)
 
 Each hub combines firm-sponsored competitions, student fellowships, interview playbooks, and live direct-ATS openings:
 
@@ -198,11 +203,11 @@ Each hub combines firm-sponsored competitions, student fellowships, interview pl
 - **Systematic & Multi-Strat Hedge Funds:** [WorldQuant](https://quantchallenges.com/firms/worldquant) · [Point72 & Cubist Systematic](https://quantchallenges.com/firms/point72) · [Qube Research & Technologies (QRT)](https://quantchallenges.com/firms/qrt) · [Squarepoint Capital](https://quantchallenges.com/firms/squarepoint) · [Two Sigma](https://quantchallenges.com/firms/two-sigma) · [Millennium Management](https://quantchallenges.com/firms/millennium) · [AQR Capital Management](https://quantchallenges.com/firms/aqr) · [G-Research](https://quantchallenges.com/firms/g-research) · [D. E. Shaw Group](https://quantchallenges.com/firms/de-shaw) · [Schonfeld Strategic Advisors](https://quantchallenges.com/firms/schonfeld) · [Man Group](https://quantchallenges.com/firms/man-group) · [The Voleon Group](https://quantchallenges.com/firms/voleon) · [PDT Partners](https://quantchallenges.com/firms/pdt-partners) · [Winton](https://quantchallenges.com/firms/winton) · [Engineer's Gate](https://quantchallenges.com/firms/engineers-gate) · [Edgestream Partners](https://quantchallenges.com/firms/edgestream)
 - **Digital-Asset, Prediction & Crowdsourced Quant:** [Numerai](https://quantchallenges.com/firms/numerai) · [CrunchDAO](https://quantchallenges.com/firms/crunchdao) · [Wintermute](https://quantchallenges.com/firms/wintermute) · [Kalshi](https://quantchallenges.com/firms/kalshi) · [Polymarket](https://quantchallenges.com/firms/polymarket) · [Flowdesk](https://quantchallenges.com/firms/flowdesk) · [Selini Capital](https://quantchallenges.com/firms/selini-capital) · [Presto Labs](https://quantchallenges.com/firms/presto-labs)
 
-Explore all **86 firm hubs**: **[quantchallenges.com/firms](https://quantchallenges.com/firms)**
+Explore all **91 firm hubs**: **[quantchallenges.com/firms](https://quantchallenges.com/firms)**
 
 ### High-Intent Job Hubs & Strategy Playbooks
 
-- **Direct ATS Job Hubs:** [2027 Internships (81)](https://quantchallenges.com/jobs/internships) · [2027 New-Grad](https://quantchallenges.com/jobs/new-grad) · [Disclosed USD Pay (117)](https://quantchallenges.com/jobs/salary-disclosed) · [Visa Sponsorship](https://quantchallenges.com/jobs/visa-sponsorship) · [Remote](https://quantchallenges.com/jobs/remote) · [Quant Researcher](https://quantchallenges.com/jobs/quant-researcher) · [Quant Trader](https://quantchallenges.com/jobs/quant-trader) · [Quant Developer](https://quantchallenges.com/jobs/quant-developer)
+- **Direct ATS Job Hubs:** [2027 Internships (86)](https://quantchallenges.com/jobs/internships) · [2027 New-Grad](https://quantchallenges.com/jobs/new-grad) · [Disclosed USD Pay (117)](https://quantchallenges.com/jobs/salary-disclosed) · [Visa Sponsorship](https://quantchallenges.com/jobs/visa-sponsorship) · [Remote](https://quantchallenges.com/jobs/remote) · [Quant Researcher](https://quantchallenges.com/jobs/quant-researcher) · [Quant Trader](https://quantchallenges.com/jobs/quant-trader) · [Quant Developer](https://quantchallenges.com/jobs/quant-developer)
 - **Editorial Playbooks:** [Jane Street vs Citadel vs Optiver vs IMC](https://quantchallenges.com/guides/jane-street-vs-citadel-vs-optiver-vs-imc-2027) · [Options Pricing & Greeks Guide](https://quantchallenges.com/guides/options-pricing-and-greeks-quant-interview-guide-2027) · [2026–2027 Calendar Guide](https://quantchallenges.com/guides/quant-competition-calendar-2026-2027) · [Numerai vs CrunchDAO vs WorldQuant](https://quantchallenges.com/guides/numerai-vs-crunchdao-vs-worldquant-brain) · [Prop Firm vs Hedge Fund](https://quantchallenges.com/guides/prop-trading-firm-vs-quant-hedge-fund-2027) · [C++ vs Python vs OCaml](https://quantchallenges.com/guides/cpp-vs-python-vs-ocaml-in-quant-trading-2027) · [All 20 Guides](https://quantchallenges.com/guides)
 - **Machine-Readable & LLM Feeds:** [`calendar.ics`](https://quantchallenges.com/challenges/calendar.ics) · [`feed.xml`](https://quantchallenges.com/challenges/feed.xml) · [`/challenges.md`](https://quantchallenges.com/challenges.md) · [`/jobs.md`](https://quantchallenges.com/jobs.md) · [`/llms.txt`](https://quantchallenges.com/llms.txt)
 
